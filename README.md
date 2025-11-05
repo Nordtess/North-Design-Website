@@ -36,6 +36,45 @@ On my employee page I am utilizing AXIOS to read the JSON data for my project ha
   <img src="/images/GitHub-Images/uni-website1.png" alt="Preview" width="800">
 </p>
 
+<p align="center">
+
+</p>
+
+<p align="center">
+  The homepage of the website (index.html) with the presentation of the company.
+</p>
+
+<p align="center">
+  <img src="/images/GitHub-Images/uni-website3.png" alt="Preview" width="800">
+</p>
+
+<p align="center">
+  The user message board using real-time validation, when the user is hovering over the submit button,
+  if the fields are incorrectly filled out, it will light up with a redish-glow to show the user that
+  the message can't be sent. Using JavaScript the data won't be sent using event.preventDefault();.
+</p>
+
+<p align="center">
+  <img src="/images/GitHub-Images/uni-website4.png" alt="Preview" width="800">
+</p>
+
+<p align="center">
+  When all fields are correctly filled out, when hovering over the submit button, it will show a green light,
+  showcasing for the user that the message now can be sent. 
+</p>
+
+<p align="center">
+  <img src="/images/GitHub-Images/uni-website2.png" alt="Preview" width="800">
+</p>
+
+<p align="center">
+  The employee presentation page that will take the user to their individual pages.
+</p>
+
+
+
+
+
 
 
 
