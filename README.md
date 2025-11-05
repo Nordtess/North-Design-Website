@@ -88,6 +88,8 @@ On my employee page I am utilizing AXIOS to read the JSON data for my project ha
 
 <p align="center">
   The mobile version with a standard hamburger menu for the links, automatically changes to mobile version when the screen width goes < 800px.
+  Alot of the JavaScript code and animations are either customized or removed for the mobile version, for example the light around the submit button on the user message board
+  always show a red or green light the moment the user starts giving input since there is no hovering on mobile-phones or tablets.
 </p>
 
 ---
