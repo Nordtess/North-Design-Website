@@ -21,7 +21,9 @@ On my employee page I am utilizing AXIOS to read the JSON data for my project ha
 
 ## 🖼️ Demo
 
-Video of the fullscreen version.
+<p align="center">
+  YouTube video showcasing the fullscreen version.
+</p>
 <p align="center">
   <a href="https://youtu.be/t7yqqDNMaSw" target="_blank">
     <img src="/images/GitHub-Images/uni-website-yt2.png" alt="Watch the video" width="500" height="500">
