@@ -52,8 +52,8 @@ On my employee page I am utilizing AXIOS to read the JSON data for my project ha
 
 <p align="center">
   The user message board using real-time validation, when the user is hovering over the submit button,
-  if the fields are incorrectly filled out, it will light up with a redish-glow to show the user that
-  the message can't be sent. Using JavaScript the data won't be sent using <code>event.preventDefault();</code>.
+  if the fields are incorrectly filled out or if the fields are empty, it will both light up with a redish-glow to show the user that
+  the message can't be sent and give different messages below the fields depending on the error. Using JavaScript the data won't be sent using <code>event.preventDefault();</code>.
 </p>
 
 <p align="center">
