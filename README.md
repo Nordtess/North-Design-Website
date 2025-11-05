@@ -72,18 +72,11 @@ On my employee page I am utilizing AXIOS to read the JSON data for my project ha
 </p>
 
 <p align="center">
-  The employee (mine) page of Jamie, using alot of JavaScript animations and events, for example the circle tracking the mouse live, a slideshow of images and
+  The employee (mine) page of Jamie, using alot of JavaScript animations and events, for example the circle tracking the mouse live, animated bars, a slideshow of images and
   also a project handler using AXIOS to read JSON data.
 </p>
 
 
-
-
-
-
-
-
-![Screenshot](bilder/demo.png)
 
 ## ⚙️ Installation
 ```bash
