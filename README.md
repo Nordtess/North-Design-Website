@@ -1,49 +1,102 @@
-<div align="center">
-
 # 🧠 North Design
-A stylistic, mobile-first business website built with a clean black and white art theme.
+
+A stylish mobile-first business website in a black and white art theme.
+
+
 
 </div>
 
+
+
 ## 💡 Description
-This project was developed during a university frontend course for an imaginary company named North Design. It demonstrates robust frontend architecture using vanilla HTML, CSS, and JavaScript.
 
-**My primary contributions to this group project include:**
+This website was built by me and four other students in VSCode using LiveServer for a project in a frontend course we had at the university.
 
-* **Core Design & Grid System:** Establishing the basic look with a clean, stylistic black-and-white theme and creating the entire template for the CSS grid system.
-* **Message Board Logic:** Implementing the user message board functionality, including real-time input validation with visual feedback (red/green glow) and preventing form submission using `event.preventDefault()` based on error state.
-* **File Organization:** Structuring the project files according to modular, good-practice conventions.
-* **Advanced JavaScript:** Implementing complex JavaScript animations on my individual employee page, such as a custom mouse-tracking circle (demonstrating dynamic client-side event handling) and animating project elements.
-* **Data Handling:** Utilizing **AXIOS** to read and handle dynamic project data from a JSON file for the project handler.
+The project was about creating a fully functional webpage for an imaginary company called North Design.
+
+Created with vanilla HTML, CSS, JavaScript and AXIOS to read JSON data.
+
+
+
+It's designed with a modern mobile-first approach and use real-time validation with feedback on the user message board.
+
+
+
+I designed the basic look of the website with a clean black and white but still stylistic theme. I also created the whole
+
+template for the css grid-system, the html elements and also the JavaScript functions for the user message board and overall
+
+webpage. I also organized the files after good-practice in the project itself.
+
+
+
+My co-students created their own employee pages based on my design making their own touch on it. On my own employee page I use JavaScript
+
+for animating my elements and the circle tracking the mouse-pointer (not with performance in mind).
+
+
+
+On my employee page I am utilizing AXIOS to read the JSON data for my project handler.
+
+
 
 ---
+
+
 
 ## 🧰 Tech Stack
 
+
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" height="40" alt="Axios" title="Axios"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" height="40" alt="JSON" title="JSON"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" height="40" title="Axios"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" height="40" title="JSON"/>
+
 </p>
 
+
+
 ---
+
+
 
 ## 🎥 Demo (YouTube)
 
+
+
 <p align="center">
+
   YouTube video showcasing the fullscreen version.
+
 </p>
+
 <p align="center">
+
   <a href="https://youtu.be/t7yqqDNMaSw" target="_blank">
+
     <img src="/images/GitHub-Images/uni-website-yt2.png" alt="Watch the video" width="500" height="500">
+
   </a>
+
 </p>
+
+
 
 ---
 
+
+
 ## 🖼️ Screenshots
+
+
 
 <p align="center">
 
@@ -151,15 +204,16 @@ This project was developed during a university frontend course for an imaginary 
 
 </p>
 
+
+
 ---
+
+
 
 ## ⚙️ Installation
 
+
+
 ```bash
-# Clone the repository
-git clone [https://github.com/Nordtess/](https://github.com/Nordtess/)[repository-name]
 
-# Navigate into the project folder
-cd [repository-name]
-
-# Open index.html in your browser or use the Live Server VS Code extension.
+git clone https://github.com/Nordtess/
