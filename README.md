@@ -46,7 +46,7 @@ This project was developed during a university frontend course for an imaginary 
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="/images/GitHub-Images/uni-website1.png" alt="Preview" width="800">
+  <img src="images/GitHub-Images/uni-website1.png" alt="Preview" width="800">
 </p>
 
 <p align="center">
