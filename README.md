@@ -46,51 +46,109 @@ This project was developed during a university frontend course for an imaginary 
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="images/GitHub-Images/uni-website1.png" alt="Preview" width="800">
+
+  <img src="/images/GitHub-Images/uni-website1.png" alt="Preview" width="800">
+
 </p>
 
-<p align="center">
-  The homepage (index.html), showcasing the company presentation.
-</p>
+
 
 <p align="center">
+
+  The homepage of the website (index.html) with the presentation of the company.
+
+</p>
+
+
+
+<p align="center">
+
   <img src="/images/GitHub-Images/uni-website3.png" alt="Preview" width="800">
+
 </p>
 
-<p align="center">
-  User message board utilizing **real-time input validation**. If fields are empty or incorrectly filled out, the submit button provides visual feedback with a reddish glow and specific error messages.
-</p>
+
 
 <p align="center">
+
+  The user message board using real-time validation, when the user is hovering over the submit button,
+
+  if the fields are incorrectly filled out or if the fields are empty, it will both light up with a redish-glow to show the user that
+
+  the message can't be sent and give different messages below the fields depending on the error. Using JavaScript the data won't be sent using <code>event.preventDefault();</code>.
+
+</p>
+
+
+
+<p align="center">
+
   <img src="/images/GitHub-Images/uni-website4.png" alt="Preview" width="800">
+
 </p>
 
-<p align="center">
-  When all fields are correctly filled out, the submit button lights up green, signaling the user that the message is ready to be sent.
-</p>
+
 
 <p align="center">
+
+  When all fields are correctly filled out, when hovering over the submit button, it will show a green light,
+
+  showcasing for the user that the message now can be sent. 
+
+</p>
+
+
+
+<p align="center">
+
   <img src="/images/GitHub-Images/uni-website2.png" alt="Preview" width="800">
+
 </p>
 
-<p align="center">
-  The employee presentation page leading to individual portfolio pages.
-</p>
+
 
 <p align="center">
+
+  The employee presentation page that will take the user to their individual pages.
+
+</p>
+
+
+
+<p align="center">
+
   <img src="/images/GitHub-Images/uni-website6.png" alt="Preview" width="800">
+
 </p>
 
-<p align="center">
-  My individual employee page (Jamie), featuring extensive JavaScript interactions, including a live mouse-tracking circle, dynamic animated bars, and a project handler utilizing AXIOS for JSON data consumption.
-</p>
+
 
 <p align="center">
+
+  The employee (mine) page of Jamie, using a lot of JavaScript animations and events, for example the circle tracking the mouse live, animated bars, a slideshow of images and
+
+  also a project handler using AXIOS to read JSON data.
+
+</p>
+
+
+
+<p align="center">
+
   <img src="/images/GitHub-Images/uni-website-mobile.png" alt="Preview" width="800">
+
 </p>
 
+
+
 <p align="center">
-  Fully responsive mobile version. JavaScript functionality and animations were customized or removed for screen widths &lt; 800px. Validation logic on the message board was adapted for mobile interaction (e.g., immediate feedback instead of hover-based effects).
+
+  The mobile version with a standard hamburger menu for the links, automatically changes to mobile version when the screen width goes < 800px.
+
+  Alot of the JavaScript code and animations are either customized or removed for the mobile version, for example the light around the submit button on the user message board
+
+  always show a red or green light the moment the user starts giving input since there is no hovering on mobile-phones or tablets.
+
 </p>
 
 ---
