@@ -39,19 +39,6 @@ But beneath the satire lies **serious frontend engineering**. This isn't just co
 
 ---
 
-## 🎥 Live Demo
-
-<p align="center">
-  <strong>Watch the full website in action—featuring smooth animations, responsive design, and morally questionable corporate copy.</strong>
-</p>
-<p align="center">
-  <a href="https://youtu.be/t7yqqDNMaSw" target="_blank">
-    <img src="https://raw.githubusercontent.com/Nordtess/Website-university-project/main/images/GitHub-Images/uni-website-yt.png" alt="Watch the video" width="500" height="500">
-  </a>
-</p>
-
----
-
 ## 🎯 Features
 
 ### 🏠 Home Page (The Corporate Facade)
