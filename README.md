@@ -441,4 +441,3 @@ This project is licensed under the MIT License—feel free to steal our code, ju
 _"Your data isn't safe, but at least our website looks good."_
 
 </div>
-```
